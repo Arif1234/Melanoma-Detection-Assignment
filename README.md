@@ -1,7 +1,6 @@
 # Skin Cancer Classification using CNN
 
 A project aimed at classifying skin cancer images into various categories using a Convolutional Neural Network (CNN).
-Dataset : (https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
 
 ![Skin Cancer Classification](melanoma.jpeg)
 
@@ -26,6 +25,7 @@ Dermatologists often require tools to assist in the classification of skin lesio
 ### Dataset
 
 The dataset contains images of different types of skin lesions. The data is imbalanced, with certain classes dominating the dataset.
+Dataset : (https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
 
 ## Observations
 

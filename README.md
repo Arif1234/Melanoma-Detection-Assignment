@@ -24,8 +24,7 @@ Dermatologists often require tools to assist in the classification of skin lesio
 
 ### Dataset
 
-The dataset contains images of different types of skin lesions. The data is imbalanced, with certain classes dominating the dataset.<br>
-Dataset : (https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+The dataset contains images of different types of skin lesions. The data is imbalanced, with certain classes dominating the dataset.
 
 ## Observations
 

@@ -1,6 +1,6 @@
 # Skin Cancer Classification using CNN
 
-A project aimed at classifying skin cancer images into various categories using a Convolutional Neural Network (CNN).
+The goal is to build a convolutional neural network (CNN) model to classify images of skin lesions into different categories, including melanoma, using a dataset of 2357 images. The dataset contains various types of skin diseases such as melanoma, actinic keratosis, basal cell carcinoma, and others. Early detection of melanoma can significantly reduce mortality rates, and this model aims to assist dermatologists in identifying the presence of melanoma and other skin conditions efficiently.
 
 ![Skin Cancer Classification](melanoma.jpeg)
 
@@ -24,7 +24,7 @@ Dermatologists often require tools to assist in the classification of skin lesio
 
 ### Dataset
 
-The dataset contains images of different types of skin lesions. The data is imbalanced, with certain classes dominating the dataset.
+The dataset contains images of different types of skin lesions. The data is imbalanced, with certain classes dominating the dataset.<br>
 Dataset : (https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
 
 ## Observations
